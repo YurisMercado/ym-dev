@@ -1,0 +1,7 @@
+YM DEV - SEO actualizado
+
+Subir a la raiz del repositorio YurisMercado/ym-dev los 7 archivos .html y sitemap.xml.
+NO eliminar el archivo googlef2bc3bd9f04d25e3.html ya existente en GitHub.
+En Search Console > Sitemaps, enviar: sitemap.xml
+Comprobar el sitemap en https://yurismercado.github.io/ym-dev/sitemap.xml
+Nota: la indexacion y posicionamiento dependen de Google y no estan garantizados.
